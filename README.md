@@ -5,4 +5,4 @@ Hello my name is Soo Cho and this is my repository
 
 My course partner is Elliott Hoang
 
-Added Poonam Sacheva
+Add Poonam Sacheva
